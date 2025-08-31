@@ -7,7 +7,7 @@ This repository contains a collection of beginner to intermediate learning proje
 ## 📂 Repository Structure
 ```
 STM32F103C6-Learning-Projects/
-├── 01_GPIO_LedToggle/
+├── 01_Led_Blink/
 ├── 02_switch_led/
 ├── 03_CA_7_Segment/
 ├── 04_CA_2_digit_7_segment/
@@ -15,9 +15,9 @@ STM32F103C6-Learning-Projects/
 ├── 06_2switch_2dc_motor/
 ├── 07_LCD/
 ├── 08_LCD_4bit/
-├── 09_Keypad/
-├── 10_UART/
-├── 11_UART_Rx/
+├── 09_UART/
+├── 10_UART_Rx/
+├── 11_Keypad_UART/
 ├── 12_I2C_using_debugger/
 ├── 13_SPI_using_debugger/
 ├── 14_ext_interrupt/
