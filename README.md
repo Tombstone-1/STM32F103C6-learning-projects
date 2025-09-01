@@ -18,8 +18,8 @@ STM32F103C6-Learning-Projects/
 ├── 09_UART/
 ├── 10_UART_Rx/
 ├── 11_Keypad_UART/
-├── 12_I2C_using_debugger/
-├── 13_SPI_using_debugger/
+├── 12_I2C/
+├── 13_SPI/
 ├── 14_ext_interrupt/
 ├── 15_PWM/
 ├── 16_PCF8574_LCD_4bit/
