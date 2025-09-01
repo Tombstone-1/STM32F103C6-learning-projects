@@ -1,0 +1,7 @@
+# other files
+*.pdf
+*.zip
+
+# Editor files
+.vscode/
+

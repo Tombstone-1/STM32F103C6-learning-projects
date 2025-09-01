@@ -1,0 +1,5 @@
+../Core/Src/LCD.c:11:6:lcd_init	8	static
+../Core/Src/LCD.c:20:6:lcd_cmd	24	static
+../Core/Src/LCD.c:33:6:lcd_print	24	static
+../Core/Src/LCD.c:46:6:lcd_put_cursor	16	static
+../Core/Src/LCD.c:60:6:lcd_string	16	static
