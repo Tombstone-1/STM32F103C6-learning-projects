@@ -22,7 +22,6 @@ STM32F103C6-Learning-Projects/
 ├── 13_SPI/
 ├── 14_ext_interrupt/
 ├── 15_PWM/
-├── 16_PCF8574_LCD_4bit/
 ├── 103C - pinout
 └── README.md
 ```
