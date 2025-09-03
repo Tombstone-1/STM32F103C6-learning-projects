@@ -68,4 +68,9 @@ Each folder contains:
 ## 🎯 Goals
 - Learn the basics of embedded systems development.  
 - Understand peripheral configuration and usage.  
-- Build a strong foundation in STM32 development using STM32CubeIDE.  
+- Build a strong foundation in STM32 development using STM32CubeIDE.
+
+## License
+
+This project is released under the MIT License for all original code written by the author.
+Note: STM32CubeIDE-generated code, including HAL drivers and system files, are licensed under STMicroelectronics' SLA0048 license. See /Drivers and /Startup folders for details.
