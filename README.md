@@ -73,4 +73,5 @@ Each folder contains:
 ## License
 
 This project is released under the MIT License for all original code written by the author.
+
 Note: STM32CubeIDE-generated code, including HAL drivers and system files, are licensed under STMicroelectronics' SLA0048 license. See /Drivers and /Startup folders for details.
