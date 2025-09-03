@@ -57,7 +57,7 @@ Each folder contains:
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/STM32F103C6-Learning-Projects.git
+   git clone https://github.com/Tombstone-1/STM32F103C6-learning-projects.git
    ```
 2. Open a project in **STM32CubeIDE**.  
 3. Build and flash the code to your STM32F103C6 board.  
